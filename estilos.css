@@ -1,0 +1,10 @@
+body{
+    background-size: cover;
+}
+h1,h2,h3,h4,p,ul{
+    color: white;
+}
+.imagen_alexis{
+    width: 200px;
+    align-items:center ;
+}
